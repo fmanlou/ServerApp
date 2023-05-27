@@ -1,0 +1,9 @@
+[submodule "proto"]
+	path = proto
+	url = https://github.com/fmanlou/proto.git
+[submodule "lib/proto"]
+	path = lib/proto
+	url = https://github.com/fmanlou/proto.git
+[submodule "lib/server"]
+	path = lib/server
+	url = https://github.com/fmanlou/server.git
